@@ -16,19 +16,19 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Overview
 
-### Screenshot
+### Screenshots:
 
 ![Desktop](/Screenshot.png)
 ![Mobile](/Screenshot2.png)
 
-### Links
+### Links:
 
-- Solution URL: [Add solution URL here](https://github.com/DevouraStudio/Recipe-Page-Project)
-- Live Site URL: [Add live site URL here](https://devourastudio.github.io/Recipe-Page-Project/)
+- Solution URL: [solution URL](https://github.com/DevouraStudio/Recipe-Page-Project)
+- Live Site URL: [live site URL](https://devourastudio.github.io/Recipe-Page-Project/)
 
 ## My process
 
-### Built with
+### Built with:
 
 - Semantic HTML5 markup and boilerplate
 - CSS custom properties
@@ -38,7 +38,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 - [Bootstrap](https://getbootstrap.com/) - CSS framework
 
 
-### What I learned
+### What I learned:
 
 "Through This Project, I Strengthened My Skills in Writing Clean HTML Structure, Creating Responsive Layouts With CSS, and Styling Elements to Match a Specific Design Vision. I Learned How to Use Semantic Tags for Better Accessibility, Apply Modern CSS Techniques Like Flexbox, and Ensure That the Design Works Smoothly Across Different Devices. This Experience Also Improved My Ability to Organize Code and Think Creatively When Solving Layout Challenges." 
 
@@ -63,11 +63,11 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 }
 ```
 
-### Continued development
+### Continued development:
 
 "In Future Projects, I Plan to Focus More on Mastering Bootstrap and It's Responsive Breakpoints, Along With Deepening My Understanding of CSS Flexbox and Media Queries. I Also Aim to Apply More Precise HTML5 Semantic Markup to Ensure Better Accessibility, Structure, and SEO Performance. By Strengthening These Skills, I Can Create Cleaner, More Responsive, and User-Friendly Websites."
 
-### Useful resources
+### Useful resources:
 
 - [MDN](https://developer.mozilla.org/en-US/) - "During This Project, I Frequently Referred to the Mozilla Developer Network (MDN) Website as a Trusted Resource for Learning and Clarifying HTML, CSS, and JavaScript. MDN Provided Clear Documentation, Practical Examples, and Best Practices That Helped Me Solve Challenges More Efficiently. Using MDN Not Only Improved My Technical Accuracy but Also Strengthened My Confidence in Applying Modern Web Standards to My Work."
 
@@ -79,6 +79,5 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 - Website - [DevouraStudio](https://www.devoura.ir)
 - Frontend Mentor - [@DevouraStudio](https://www.frontendmentor.io/profile/DevouraStudio)
-- Dribble - [@DevouraStudio](https://www.dribbble.com/DevouraStudio)
 - Github - [@DevouraStudio](https://www.github.com/DevouraStudio)
 - Codepen - [@DevouraStudio](https://www.codepen.io/DevouraStudio)
